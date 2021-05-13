@@ -1,0 +1,28 @@
+[24-Mar-2020 12:36:19 Europe/Berlin] PHP Notice:  Undefined index: selectedTown in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 10
+[24-Mar-2020 12:36:19 Europe/Berlin] PHP Notice:  Undefined index: usernameValue in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 11
+[24-Mar-2020 12:36:19 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 12:36:19 Europe/Berlin] PHP Notice:  Undefined variable: usernameValue in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 12:43:29 Europe/Berlin] PHP Notice:  Undefined index: selectedTown in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 10
+[24-Mar-2020 12:43:29 Europe/Berlin] PHP Notice:  Undefined index: usernameValue in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 11
+[24-Mar-2020 12:43:29 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 12:43:29 Europe/Berlin] PHP Notice:  Undefined variable: usernameValue in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 12:44:44 Europe/Berlin] PHP Notice:  Undefined index: usernameValue in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 11
+[24-Mar-2020 12:44:44 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 12:44:44 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 12:44:44 Europe/Berlin] PHP Notice:  Undefined variable: usernameValue in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 12:45:30 Europe/Berlin] PHP Notice:  Undefined index: usernameValue in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 11
+[24-Mar-2020 12:45:30 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 12:45:30 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 12:46:44 Europe/Berlin] PHP Notice:  Undefined index: usernameValue in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 11
+[24-Mar-2020 12:46:44 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 12:46:44 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 13:01:25 Europe/Berlin] PHP Notice:  Undefined index: usernameValue in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 11
+[24-Mar-2020 13:01:25 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 13:01:25 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 13:04:29 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 13:04:29 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 13:04:29 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 13
+[24-Mar-2020 13:10:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\weather_watcher\php\addTown.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\weather_watcher\php\addTown.php on line 18

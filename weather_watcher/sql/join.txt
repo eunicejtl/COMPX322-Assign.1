@@ -1,0 +1,14 @@
+CREATE TABLE `join` (
+	`uid`int(11) NOT NULL, 
+	`town` varchar(50) NOT NULL,
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
+
+-- inserting data into table for `join`
+
+INSERT INTO `join` (`uid`, `town`) VALUES 
+(1, 'Hamilton'),
+(1, 'Auckland'),
+(2, 'Christchurch'),
+(3, 'Dunedin'),
+(4, 'Tauranga'),
+(4, 'Wellington');

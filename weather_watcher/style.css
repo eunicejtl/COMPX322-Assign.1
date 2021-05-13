@@ -1,0 +1,61 @@
+/*NAME: EUNICE JOY LLOBET
+ID: 1330233*/
+
+body {
+	font-family: "Times New Roman", Times, serif;
+	background-color: #ffbb99;
+	font-size: medium;
+}
+
+#main_container {
+	text-align:center;
+	border: solid;
+	width: 40%;
+	height: auto;
+	margin: auto;
+}
+
+#login_container {
+	text-align: center;
+}
+
+#page_statement {
+	color: red;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+tr { 
+	background-color: #f2f2f2;
+}
+
+tr:hover {background-color: #ddd;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #ffff80;
+}
+
+#info_container {
+	text-align: center;
+
+}
+
+#addOrRemove {
+	text-align: center;
+	display: none;
+}
+
+#logout {
+	display: none;
+}

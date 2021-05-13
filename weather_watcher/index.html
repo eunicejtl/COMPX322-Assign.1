@@ -1,0 +1,68 @@
+<!-- NAME: EUNICE JOY LLOBET
+	ID: 1330233 -->
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<title>Assignment One</title>
+	<script src="weatherWatcher.js"></script>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<meta charset='UTF-8'>
+</head>
+ 
+<body onload="townOptions()">
+
+	<div id="main_container">
+		<div id="title_container">
+			<h1 id = "title">Login</h1>
+		</div>
+
+		<div id="statement_container">
+			<p id = "page_statement">Please enter your username and password</p> 
+		</div>
+
+		<div id="info_container">
+			<!-- Where login information will go -->
+			<div id="login_container" >
+				<label for="username">Username: </label>
+				<input type="text" id="username">
+				<br>
+
+				<label for="password">Password:</label>
+				<input type="password" id="password">
+				<br>
+
+				<button type="submit" onclick="loginButton()" id="loginButton">Login</button> 
+
+			</div>
+			<div id ="display_container"> 
+				<!-- Where table will go -->
+				<table id="table"></table>
+				<!-- Where weather description will go -->
+				<div id="description_container"> 
+
+				</div>
+			</div>
+
+			<br>
+
+			<div id="addOrRemove">
+				<form>
+  					<label>Choose a Town: </label>
+  					<select id="townName">
+
+  					</select>
+  				</form>	
+  				<br>	
+  				<button id="addTown" type="submit" onclick="getSelectedTown('addTown')">Add Town</button>
+  				<button id="removeTown" type="submit" onclick="getSelectedTown('removeTown')">Remove Town</button>		
+			</div> 
+
+			<br>
+
+			<button id="logout" type="submit" onclick="logout()">Logout</button>
+		</div>
+	</div>
+</body>
+</html>
